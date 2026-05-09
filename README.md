@@ -28,6 +28,9 @@ Made sure data is consistent and clean with respect to data type, data format an
 Created pivot tables according to the questions asked.
 Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
+##  Dashboard
+https://github.com/thakuraman21/Data-Analysis-Dashboard-in-Excel/blob/main/Screenshot%202026-05-09%20011037.png
+
 
 
 
