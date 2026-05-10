@@ -10,7 +10,7 @@ Which month got the highest sales and orders?
 
 Who purchased more - Men or Women?
 
-What are different order status in 2022?
+What are different order status in 2026?
 
 List top 10 states contributingto the sales?
 
